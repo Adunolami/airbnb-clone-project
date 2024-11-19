@@ -69,3 +69,15 @@ Understanding the design properties of a mockup is essential for:
 
 By exploring and understanding the **Figma** environment and identifying these design properties, we can ensure a cohesive, user-centric interface for the Airbnb Clone project. 🎨
 
+## Project Roles and Responsibilities 👥
+
+### 1. **Frontend Developers**
+- **Overview**: Frontend Developers focus on creating a seamless and visually appealing user interface.
+- **Key Responsibilities**:
+  - Implement UI/UX designs using React, TypeScript, and TailwindCSS.
+  - Develop responsive and accessible components.
+  - Integrate frontend with backend APIs.
+  - Optimize the application for performance and scalability.
+- **Contribution**: Provide a smooth, intuitive user experience by implementing the design and ensuring responsiveness.
+
+
